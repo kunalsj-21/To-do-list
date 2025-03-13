@@ -43,4 +43,7 @@ button:hover{
 
 button{
     background-color: rgb(255, 166, 0);
+    color: black;
+    padding: 4px;
+    border-radius: 5px;
 }
